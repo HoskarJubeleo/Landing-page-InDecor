@@ -1,2 +1,2 @@
 # Landing-page-InDecor
-URL 
+URL https://hoskarjubeleo.github.io/Landing-page-InDecor/
