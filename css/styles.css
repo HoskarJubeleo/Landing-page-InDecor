@@ -50,8 +50,8 @@ html{
     font-size: 3em;
 }
 
-.event-date{
-    font-size: 1.5em;
+.event-date span{
+    font-size: 1.2em;
     font-weight: bold;
 }
 
